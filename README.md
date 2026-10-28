@@ -12,18 +12,18 @@
 
 </div>
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a **Computer Science and Engineering graduate from American International University-Bangladesh (AIUB)**, building my career in **AI and Machine Learning engineering**.
 
 My academic work spans **financial time-series forecasting, graph-based facial expression recognition, Transformer-based text classification, unsupervised NLP, and data analysis**. I enjoy exploring models, building experiments, evaluating results, and improving reproducibility.
 
-- 🔬 **Research interests:** Graph Neural Networks, computer vision, sequence modeling, and NLP
-- 🧪 **Hands-on work:** Neural-network experiments, model comparison, classification, exploratory analysis
-- 📚 **Current focus:** Turning academic projects into clearer, better-tested, reusable code
-- 🤝 **Open to:** Junior AI/ML Engineer opportunities, research collaboration, and practical ML projects
+-  **Research interests:** Graph Neural Networks, computer vision, sequence modeling, and NLP
+-  **Hands-on work:** Neural-network experiments, model comparison, classification, exploratory analysis
+-  **Current focus:** Turning academic projects into clearer, better-tested, reusable code
+-  **Open to:** Junior AI/ML Engineer opportunities, research collaboration, and practical ML projects
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 **Programming & data**
 
@@ -43,7 +43,7 @@ My academic work spans **financial time-series forecasting, graph-based facial e
 
 **Methods:** GRU · LSTM · Bi-LSTM · Graph Neural Networks (GIN/GCN) · BERT · RoBERTa · DistilBERT · Random Forest · LDA · Exploratory Data Analysis
 
-## 📚 Research
+##  Research
 
 ### 1. GRU-Based Forecasting Outperforms LSTM and Bi-LSTM for Apple Stock and Bitcoin Prices
 
@@ -67,16 +67,16 @@ My academic work spans **financial time-series forecasting, graph-based facial e
 
 > Publication venue, DOI, and final publication status for the LGCN manuscript will be added when verified.
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Focus | Repository |
 |---|---|---|
-| 🧠 **LGCN — Facial Micro-Expression Recognition** | GNNs, facial landmarks, graph-based computer vision | [Explore](https://github.com/Tousif-Anam/LGCN) |
-| 📈 **Financial Time-Series Forecasting** | GRU, LSTM, Bi-LSTM, model comparison | [Explore](https://github.com/Tousif-Anam/financial-time-series-forecasting) |
-| 📰 **Transformer News Classification** | BERT, RoBERTa, DistilBERT, ensemble experiments | [Explore](https://github.com/Tousif-Anam/transformer-news-classification) |
-| ⚽ **La Liga Match Outcome Classification** | R, Random Forest, retrospective classification | [Explore](https://github.com/Tousif-Anam/laliga-match-prediction) |
-| 🗞️ **News Topic Modeling with LDA** | R, text preprocessing, unsupervised NLP | [Explore](https://github.com/Tousif-Anam/news-topic-modeling-lda) |
-| 🏨 **Hotel Booking Data Analysis** | Python, cleaning, EDA, visualization | [Explore](https://github.com/Tousif-Anam/hotel-booking-data-analysis) |
+|  **LGCN — Facial Micro-Expression Recognition** | GNNs, facial landmarks, graph-based computer vision | [Explore](https://github.com/Tousif-Anam/LGCN) |
+|  **Financial Time-Series Forecasting** | GRU, LSTM, Bi-LSTM, model comparison | [Explore](https://github.com/Tousif-Anam/financial-time-series-forecasting) |
+|  **Transformer News Classification** | BERT, RoBERTa, DistilBERT, ensemble experiments | [Explore](https://github.com/Tousif-Anam/transformer-news-classification) |
+|  **La Liga Match Outcome Classification** | R, Random Forest, retrospective classification | [Explore](https://github.com/Tousif-Anam/laliga-match-prediction) |
+|  **News Topic Modeling with LDA** | R, text preprocessing, unsupervised NLP | [Explore](https://github.com/Tousif-Anam/news-topic-modeling-lda) |
+|  **Hotel Booking Data Analysis** | Python, cleaning, EDA, visualization | [Explore](https://github.com/Tousif-Anam/hotel-booking-data-analysis) |
 
 <details>
 <summary><b>More about the portfolio</b></summary>
@@ -85,7 +85,7 @@ Some repositories contain original research notebooks; others currently include 
 
 </details>
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <div align="center">
 
@@ -95,7 +95,7 @@ Some repositories contain original research notebooks; others currently include 
 
 *Language percentages reflect GitHub repository file composition, not proficiency. The statistics card is provided by a third-party service and may occasionally be unavailable.*
 
-## 📫 Connect
+##  Connect
 
 - **GitHub:** [github.com/Tousif-Anam](https://github.com/Tousif-Anam)
 - **Email:** [tousif.tasin645272@gmail.com](mailto:tousif.tasin645272@gmail.com)
