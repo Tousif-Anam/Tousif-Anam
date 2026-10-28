@@ -53,7 +53,7 @@ My academic work spans **financial time-series forecasting, graph-based facial e
 - Evaluated regression error and directional classification metrics.
 - **Reported in the paper:** GRU RMSE **0.0152**, compared with **0.0184** for LSTM and **0.0189** for Bi-LSTM. These results have **not been independently reproduced** in the GitHub repository.
 
-📁 [Code and research paper](https://github.com/Tousif-Anam/financial-time-series-forecasting)
+ [Code and research paper](https://github.com/Tousif-Anam/financial-time-series-forecasting)
 
 ### 2. LGCN: A Micro Motion Lightweight Graph Convolution Network for Facial Micro-Expression Recognition
 
@@ -63,7 +63,7 @@ My academic work spans **financial time-series forecasting, graph-based facial e
 - Describes experiments on **CASME II, SAMM, and CK+**, with subject-independent evaluation methodology.
 - **Reported in the manuscript:** 97.0% (CASME II), 94.8% (SAMM), and 96.1% (CK+) accuracy; these are manuscript-reported figures, not independently verified repository benchmarks.
 
-📁 [LGCN research repository](https://github.com/Tousif-Anam/LGCN)
+ [LGCN research repository](https://github.com/Tousif-Anam/LGCN)
 
 > Publication venue, DOI, and final publication status for the LGCN manuscript will be added when verified.
 
