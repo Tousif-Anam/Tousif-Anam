@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Tousif Anam 👋
+# Hi, I'm Tousif Anam 
 
 **Aspiring AI/ML Engineer · Deep Learning · Natural Language Processing · Computer Vision**
 
